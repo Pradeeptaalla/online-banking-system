@@ -1,7 +1,3 @@
-<iframe src="https://drive.google.com/file/d/1jnijbJDM6mM9AR7MhPkq2G3B70HfnlAb/preview" width="640" height="480" allow="autoplay"></iframe>
-
-
-
 # 🏦 Online Banking System
 
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-Backend-brightgreen)](https://spring.io/projects/spring-boot)
