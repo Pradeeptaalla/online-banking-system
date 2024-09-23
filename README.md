@@ -4,6 +4,7 @@
 [![React](https://img.shields.io/badge/React-Frontend-blue)](https://reactjs.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-Database-orange)](https://www.mysql.com/)
 [![Google OAuth2](https://img.shields.io/badge/GoogleOAuth2-Authentication-red)](https://developers.google.com/identity/protocols/oauth2)
+[![Preview](https://img.shields.io/badge/GoogleOAuth2-Authentication-red)](https://drive.google.com/file/d/1jnijbJDM6mM9AR7MhPkq2G3B70HfnlAb/view?usp=sharing)
 
 ## ✨ Description
 
